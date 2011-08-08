@@ -1,0 +1,6 @@
+Name: Jrtplib 
+Description: A full featured RTP library
+Requires:
+Version: 3.9.0
+Libs:  /usr/local/lib/libjrtp.dylib /usr/local/lib/libjthread.dylib -lpthread
+Cflags:  -I/usr/local/include

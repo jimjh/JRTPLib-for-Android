@@ -1,0 +1,6 @@
+/Users/codex/Documents/Development/C++/jrtplib-3.9.0/examples/CMakeFiles/example1.dir
+/Users/codex/Documents/Development/C++/jrtplib-3.9.0/examples/CMakeFiles/example2.dir
+/Users/codex/Documents/Development/C++/jrtplib-3.9.0/examples/CMakeFiles/example3.dir
+/Users/codex/Documents/Development/C++/jrtplib-3.9.0/examples/CMakeFiles/example4.dir
+/Users/codex/Documents/Development/C++/jrtplib-3.9.0/examples/CMakeFiles/example5.dir
+/Users/codex/Documents/Development/C++/jrtplib-3.9.0/src/CMakeFiles/jrtplib-static.dir
